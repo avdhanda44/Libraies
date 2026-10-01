@@ -1,0 +1,5 @@
+order_id,date,customer,city,amount,items
+101,2024-01-01,Alice,Delhi,120,2
+102,2024-01-02,Bob,Mumbai,85,1
+103,2024-01-03,Cia,Delhi,140,3
+104,2024-01-04,Dani,Bengaluru,95,2
